@@ -16,3 +16,4 @@ File Name                          | Task                                       
 | 9-easter_egg.py| Easter Egg | Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.|
 | 10-check_cycle.c | Linked list cycle | Write a function in C that checks if a singly linked list has a cycle in it. |
 | lists.h | Linked list cycle | 10-check_cycle.c header file|
+| 100-write.py| Hello, write | Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.|
