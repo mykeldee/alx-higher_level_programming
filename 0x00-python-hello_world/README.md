@@ -13,3 +13,4 @@ File Name                          | Task                                       
 | 6-concat.py                      | Play with strings                             | Complete <a href="https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py">this</a> source code to print Welcome to Holberton School!|
 | 7-edges.py                       | Copy - Cut - Paste                            | Complete <a href="https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py">this</a> source code|
 | 8-concat_edges.py                | Create a new sentence                         | Complete <a href="https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py">this</a> source code to print object-oriented programming with Python, followed by a new line.|
+| 9-easter_egg.py| Easter Egg | Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.|
