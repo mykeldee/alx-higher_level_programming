@@ -18,3 +18,4 @@ File Name                          | Task                                       
 | lists.h | Linked list cycle | 10-check_cycle.c header file|
 | 100-write.py| Hello, write | Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.|
 | 101-compile | Compile | Write a script that compiles a Python script file. The Python file name will be stored in the environment variable $PYFILE |
+| 102-magic_calculation.py | ByteCode -> Python #1 | Write the Python function def magic_calculation(a, b): |
