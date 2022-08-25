@@ -14,3 +14,4 @@ ALX software engineering exercises on python functions and modules with the foll
 | 1-calculation.py | Write a program that imports functions from the file calculator_1.py, does some Maths, and prints the result. |
 | 2-args.py | Write a program that prints the number of and the list of its arguments. |
 | 3-infinite_add.py | Write a program that prints the result of the addition of all arguments |
+| 4-hidden_discovery.py | Write a program that prints all the names defined by the compiled module hidden_4.pyc |
