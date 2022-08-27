@@ -7,5 +7,3 @@ def print_matrix_integer(matrix=[[]]):
             for j in range(x):
                 print(matrix[i][j], end=" ")
             print()
-    else:
-        print()
