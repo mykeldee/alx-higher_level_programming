@@ -5,10 +5,6 @@ def print_matrix_integer(matrix=[[]]):
     if x > 0:
         for i in range(n):
             for j in range(x):
-                matrix[i][j] = "{:d}".format(matrix[i][j])
-
-        for i in range(n):
-            for j in range(x):
                 print(matrix[i][j], end=" ")
             print()
     else:
