@@ -1,7 +1,7 @@
 # 0x04. Python - More Data Structures: Set, Dictionary
+------------------------------------------------------
 
 ALX Software Engineering Course Python Programming Exercises on Data Structures (Set and Dictionary)
-----------------------------------------------------------------------------------------------------
 
 | File Name | Task |
 |:----------|:-----|
@@ -12,3 +12,4 @@ ALX Software Engineering Course Python Programming Exercises on Data Structures 
 | 4-only_diff_elements.py | Write a function that returns a set of all elements present in only one set. |
 | 5-number_keys.py | Write a function that returns the number of keys in a dictionary. |
 | 6-print_sorted_dictionary.py | Write a function that prints a dictionary by ordered keys. |
+| 7-update_dictionary.py | Write a function that replaces or adds key/value in a dictionary. |
