@@ -17,3 +17,4 @@ ALX Software Engineering Course Python Programming Exercises on Data Structures 
 | 9-multiply_by_2.py | Write a function that returns a new dictionary with all values multiplied by 2 |
 | 10-best_score.py | Write a function that returns a key with the biggest integer value. |
 | 11-multiply_list_map.py | Write a function that returns a list with all values multiplied by a number without using any loops. |
+| 12-roman_to_int.py | Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer. |
