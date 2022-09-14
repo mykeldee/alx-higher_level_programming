@@ -54,17 +54,3 @@ At the end of this project, I was able to solve these questions:
 | [102-square.py](https://github.com/edward0rtiz/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/102-square.py)|
 | [103-magic_class.py](https://github.com/edward0rtiz/holbertonschool-higher_level_programming/blob/master/0x06-python-classes/103-magic_class.py)|
 
-## Additional info :construction:
-### Resources
-
-- Python 3.5
-- PEP 8 1.7
-
-### Try It On Your Machine :computer:	
-```bash
-git clone https://github.com/edward0rtiz/holbertonschool-higher_level_programming.git
-cd 0x06-python-classes
-FOR PYTHON SCRIPTS
-./FILENAME.py
-
-```
