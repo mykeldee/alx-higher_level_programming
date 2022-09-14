@@ -1,4 +1,9 @@
 #!/usr/bin/python3
 class Square:
-    """Type class creation of empty class square"""
+    """Type class creation of empty class square
+    
+    Attributes:
+    None
+
+    """
     pass
