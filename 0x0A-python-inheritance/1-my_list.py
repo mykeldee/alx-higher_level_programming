@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 1-my_list.py
-# Brennan D Baraban <375@holbertonschool.com>
+
 """Defines an inherited list class MyList."""
 
 
@@ -9,4 +9,6 @@ class MyList(list):
 
     def print_sorted(self):
         """Print a list in sorted ascending order."""
-        print(sorted(self))
+        l_sorted = self.copy()
+        l_sorted.sort()
+        print(l_sorted)
